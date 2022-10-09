@@ -1,0 +1,62 @@
+[
+	{
+		"fio": "AAA",
+		"country": "Luxembourg",
+		"distance": "16",
+		"result": "01:02:03",
+	},
+	{
+		"fio": "AAB",
+		"country": "Lesotho",
+		"distance": "74",
+		"result": "01:03:03"
+	},
+	{
+		"fio": "AAC",
+		"country": "Hong Kong",
+		"distance": "62",
+		"result": "01:04:03"
+	},
+	{
+		"fio": "AAD",
+		"country": "South Georgia and the South Sandwich Islands",
+		"distance": "61",
+		"result": "01:01:02"
+	},
+	{
+		"fio": "AAF",
+		"country": "Saint Pierre and Miquelon",
+		"distance": "1",
+		"result": "01:05:06"
+	},
+	{
+		"fio": "AAG",
+		"country": "Lao PeopleS Democratic Republic",
+		"distance": "73",
+		"result": "01:01:03"
+	},
+	{
+		"fio": "AAR",
+		"country": "Bouvet Island",
+		"distance": "41",
+		"result": "01:03:05"
+	},
+	{
+		"fio": "AAT",
+		"country": "Syrian Arab Republic",
+		"distance": "13",
+		"result": "01:012:03"
+	},
+	{
+		"fio": "AAE",
+		"country": "Australia",
+		"distance": "42",
+		"result": "01:05:01"
+	},
+	{
+		"fio": "AAZ",
+		"country": "Mayotte",
+		"distance": "61",
+		"result": "01:09:30"
+	}
+]
