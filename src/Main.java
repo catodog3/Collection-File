@@ -106,7 +106,7 @@ public class Main {
         System.out.println("Введите количество элементов 2 списка");
         n=scanner.nextInt();
         for (int i = 0; i < n; i++) {
-                L2.add(new Random().nextInt() % 5);
+                L2.add(new Random().nextInt() % 10);
             }
         for (int i = 0; i < 10; i++) {
             System.out.print(L2.get(i) + " ");
